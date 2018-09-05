@@ -1,6 +1,6 @@
 <?php
 
-namespace videocast\Exception;
+namespace VideoCast\Exception;
 
 class MissingCredentialException extends \Exception
 {
